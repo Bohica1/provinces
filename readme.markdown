@@ -9,7 +9,6 @@ This module currently has states and provinces for:
 * united states (US)
 * united kingdom (GB)
 * canada (CA)
-* mexico (MX)
 * australia (AU)
 * china (CN)
 * germany (DE)
@@ -37,6 +36,14 @@ This module currently has states and provinces for:
 * Philippines (PH)
 * Vietnam (VN)
 * Costa Rica (CR)
+* Colombia (CO)
+* El Salvador (SV)
+* Guatemala (GT)
+* Ireland (IE)
+* Panama (PA)
+* Mexico (MX)
+* New Zealand (NZ)
+* South Africa (ZA)
 
 # methods
 
@@ -61,7 +68,8 @@ Each row consists of:
 With [npm](https://npmjs.org) do:
 
 ```
-npm install provinces
+npm -i git+https://github.com/Bohica1/provinces.git
+yarn add git+https://github.com/Bohica1/provinces.git
 ```
 
 # license
